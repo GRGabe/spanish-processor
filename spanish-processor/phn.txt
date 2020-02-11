@@ -1,0 +1,48 @@
+"""
+ga -> ga
+ge -> xe
+gi -> xi
+go -> go
+
+gua -> gwa -> gua
+gue -> ge -> gue
+güe -> gwe -> güe
+gui -> gi -> gi
+güi -> gwi -> güi
+
+ja -> xa -> ja
+je -> xe -> ge
+ji -> xi -> gi
+jo -> xo -> jo
+ju -> xu -> ju
+
+ca -> ka -> ca
+ce -> çe -> ce
+ci -> çi -> ci
+co -> ko -> 
+cu -> ku
+
+cua -> kwa
+cui -> kwi
+cue -> kwe
+cuo -> kwo
+
+za -> sa
+zo -> so
+zu -> su
+
+que -> ke
+qui -> ki
+
+
+
+gwa
+gwe
+gwi
+gwo
+
+ka -> ca
+ke -> que
+ki -> qui
+ko -> co
+ku -> cu
